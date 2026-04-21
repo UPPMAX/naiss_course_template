@@ -14,7 +14,7 @@ This course introduces a NAISS course template.
 
     These are example:
 
-    - [File transfer](https://uppmax.github.io/naiss_file_transfer_course/)
+    - [File transfer](https://hpc.pages.naiss.se/training/connect-transfer/)
     - [Intro to Python](https://uppmax.github.io/naiss_intro_python/)
 
 [Course dates](course_dates.md){ .md-button .md-button--primary }
